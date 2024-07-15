@@ -1,4 +1,3 @@
-Real-time Domain Adaptation in Semantic Segmentation
 # Real-Time Neural Networks for Semantic Segmentation with Domain Adaptation
 
 ## Authors
