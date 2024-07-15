@@ -7,18 +7,5 @@ Real-time Domain Adaptation in Semantic Segmentation
 - Shadi Mahboubpardahi (Politecnico di Torino) -  s329057@studenti.polito.it
 
 ## Abstract
-This work focuses on domain adaptation techniques to enhance the accuracy of real-time neural networks for semantic segmentation, particularly in transitioning from synthetic to real-world environments. Classical (DeepLabV2) and real-time (BiSeNet) segmentation networks are trained and evaluated on the Cityscapes dataset. Techniques such as data augmentation and adversarial learning are applied to address the domain shift problem.
+This project investigates the utilization of BiSeNet and DeepLabV2 models for real-time semantic segmentation, with a specific focus on enhancing their performance through domain adaptation techniques. By integrating adversarial training and data augmentation strategies, our goal is to develop robust models capable of achieving better performance across diverse environmental conditions. The subsequent sections will delve into related studies, outline the network architectures and methodologies employed, and present experimental results to showcase the effectiveness of the proposed approaches.
 
-## Introduction
-Semantic segmentation is critical in computer vision, requiring accurate pixel-wise classification for applications like autonomous driving. Real-time networks must balance accuracy and efficiency, often challenged by the scarcity of labeled real-world data. This study investigates domain adaptation to improve model performance when shifting from synthetic to real-world data.
-
-## Methods
-- **DeepLabV2**: A classical semantic segmentation network.
-- **BiSeNet**: A real-time segmentation network.
-- **Domain Adaptation Techniques**: Include data augmentation and adversarial learning to mitigate the domain shift from synthetic (GTA5) to real-world (Cityscapes) datasets.
-
-## Results
-
-
-## Conclusion
-Domain adaptation techniques significantly improve the performance of real-time semantic segmentation models in real-world applications. While notable advancements were achieved, further research is needed to bridge the performance gap entirely.
