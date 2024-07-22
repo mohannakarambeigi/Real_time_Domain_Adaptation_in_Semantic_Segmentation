@@ -2,7 +2,7 @@
 
 ## Authors
 - Arezoo Parsian (Politecnico di Torino) -   s327860@studenti.polito.it
-- Mohanna Karam Beigi (Politecnico di Torino) -  s329631@studenti.polito.it@studenti.polito.it
+- Mohanna Karam Beigi (Politecnico di Torino) -  s329631@studenti.polito.it
 - Shadi Mahboubpardahi (Politecnico di Torino) -  s329057@studenti.polito.it
 
 ## Abstract
