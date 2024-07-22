@@ -1,4 +1,4 @@
-# Real-Time Neural Networks for Semantic Segmentation with Domain Adaptation
+# Real_time_Domain_Adaptation_in_Semantic_Segmentation
 
 ## Authors
 - Arezoo Parsian (Politecnico di Torino) -   s327860@studenti.polito.it
